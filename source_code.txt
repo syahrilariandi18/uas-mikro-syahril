@@ -4,7 +4,7 @@
 
 // 1. Konfigurasi Jaringan WiFi Wokwi (Virtual WiFi)
 const char* ssid = "Wokwi-GUEST";
-const char* password = ""; // Wokwi-GUEST tidak menggunakan password
+const char* password = ""; 
 
 // 2. Konfigurasi Blynk HTTPS REST API
 const char* blynkToken = "yb-ZTUP9H748w2ac0ajPMkCCj1WmJRh9"; 
